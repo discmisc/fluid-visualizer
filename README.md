@@ -23,3 +23,5 @@ Make sure you have a modern web browser that supports HTML5 Canvas.
    ```bash
    git clone https://github.com/your-username/fluid-simulation.git
    cd fluid-simulation
+
+2. Open the '''index.html file in your preferred web browser.
