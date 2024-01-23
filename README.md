@@ -38,3 +38,15 @@ Adjust simulation parameters in the JavaScript code as needed:
 1.Click and drag on the canvas to introduce obstacles to the **`fluid flow`**.
 
 2.Observe the simulation of fluid dynamics, including `pressure`, `velocity`, and `smoke`.
+
+
+### Explanation
+
+The project visualises the grid-spacing, pressure, density and noise impact on the flow of a Eulerian Fluid.
+
+## Eulerian Fluid
+
+The Eulerian Description is one in which a control volume is defined, within which fluid flow properties of interest are expressed as fields. Grave to note, that it follows the Grid-Arrangement
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg )
+
