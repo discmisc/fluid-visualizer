@@ -36,4 +36,5 @@ Adjust simulation parameters in the JavaScript code as needed:
 
 ### Usage
 1.Click and drag on the canvas to introduce obstacles to the **`fluid flow`**.
+
 2.Observe the simulation of fluid dynamics, including `pressure`, `velocity`, and `smoke`.
