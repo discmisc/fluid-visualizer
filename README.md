@@ -25,3 +25,11 @@ Make sure you have a modern web browser that supports HTML5 Canvas.
    cd fluid-simulation
 
 2. Open the **index.html** file in your preferred web browser.
+
+## Configuration
+
+Adjust simulation parameters in the JavaScript code as needed:
+
+1. **`numX`** and **`numY`**: Number of grid cells in the X and Y directions.
+2. h: Grid spacing.
+3. Other parameters related to fluid properties.
