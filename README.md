@@ -48,5 +48,5 @@ The project visualises the grid-spacing, pressure, density and noise impact on t
 
 The Eulerian Description is one in which a control volume is defined, within which fluid flow properties of interest are expressed as fields. Grave to note, that it follows the Grid-Arrangement
 
-![Alt text](https://github.com/images/e_fluid.png )
+![Link Name](https://github.com/fluid-visualizer/images/e_fluid.png)  
 
